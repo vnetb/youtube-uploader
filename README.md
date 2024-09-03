@@ -12,7 +12,7 @@ Xにてサポートを依頼。
 https://x.com/TeamYouTube/status/1829322321976291786
 
 ## 検証済みのサードパーティとして
-監査の実施要のレポジトリ及び、これで通ればforkして変更の上、監査へ依頼しやすくなるかと思います。
+監査の実施用のレポジトリ及び、これで通ればforkして変更の上、監査へ依頼しやすくなるかと思います。
 
 ## YouTube API サービス - 監査と割り当て増加フォーム
 https://support.google.com/youtube/contact/yt_api_form
