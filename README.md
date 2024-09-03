@@ -12,11 +12,12 @@ Xにてサポートを依頼。
 https://x.com/TeamYouTube/status/1829322321976291786
 
 ## 検証済みのサードパーティとして
-監査の実施様のレポジトリ及び、これで通ればforkして変更の上、監査へ依頼しやすくなるかと思います。
+監査の実施要のレポジトリ及び、これで通ればforkして変更の上、監査へ依頼しやすくなるかと思います。
 
 ## YouTube API サービス - 監査と割り当て増加フォーム
-https://support.google.com/youtube/contact/yt_api_form?sjid=15455882317745806520-AP
+https://support.google.com/youtube/contact/yt_api_form
 
+- このレポジトリのソースをzipで添付した
 - 割り当て量の増加は不要の旨を記述した
 - 動画を公開アップロードしたい旨の記述が必要っぽい
 - 無事、承認(?)されました
